@@ -1,8 +1,8 @@
 class OeAds < Formula
   desc "Apple Search Ads CLI"
   homepage "https://github.com/sp-hk2ldn/oe-cli"
-  url "https://github.com/sp-hk2ldn/oe-cli/archive/refs/tags/v0.1.4.tar.gz"
-  sha256 "69feb599feb32aa47f6b27a4a91ba7a5890568f73e8849d035e97cdd44da8f3d"
+  url "https://github.com/sp-hk2ldn/oe-cli/archive/refs/tags/v0.1.5.tar.gz"
+  sha256 "b83f2ca170055e1f7869919c25e1abad8d5b7c44042278728fb751461ec7fb76"
   license "MIT"
 
   depends_on "go" => :build
