@@ -1,8 +1,8 @@
 class Searchads < Formula
   desc "Apple Search Ads CLI"
   homepage "https://github.com/sp-hk2ldn/searchads-cli"
-  url "https://github.com/sp-hk2ldn/searchads-cli/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "7515fbf067eab1ca88ce4ba504ce239f06f926b4531d887074b4d6d84c856a7e"
+  url "https://github.com/sp-hk2ldn/searchads-cli/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "e19228ae459e14a0261e9df58856a6a5589a5a196a901cebbc4740976ac28d99"
   license "MIT"
 
   depends_on "go" => :build
